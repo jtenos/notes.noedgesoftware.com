@@ -21,12 +21,10 @@
 title: No Edge Software
 email: jtenos@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Joe Enos: Software Development Consultant and Blogger
+  Tech/Dev Notes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 60seconddev
-github_username:  jtenos
-linkedin_username: jtenos
+
 
 # Build settings
 # theme: minima
