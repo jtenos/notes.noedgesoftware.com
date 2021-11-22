@@ -2,4 +2,4 @@
 layout: home
 ---
 
-<img src="/assets/img/git-cheat-sheet.jpg">
+[![Git Cheat Sheet](/assets/img/git-cheat-sheet.jpg)](/assets/img/git-cheat-sheet.jpg){:target="_blank"}
