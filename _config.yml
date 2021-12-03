@@ -22,7 +22,7 @@ title: No Edge Software
 email: jtenos@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tech/Dev Notes
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/notes.noedgesoftware.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
