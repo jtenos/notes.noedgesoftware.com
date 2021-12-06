@@ -1,0 +1,1 @@
+Hosted at [https://jtenos.github.io/notes.noedgesoftware.com/](https://jtenos.github.io/notes.noedgesoftware.com/)
