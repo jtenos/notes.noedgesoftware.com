@@ -11,3 +11,4 @@ layout: home
 - [EF Core Isolation Snapshot](ef-core-isolation.html)
 - [HTML to PDF](html-to-pdf.html)
 - [Update NuGet Packages](outdated.html)
+- [Upload file in ASP.NET](aspnet-file-upload.html)
