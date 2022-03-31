@@ -3,7 +3,6 @@ layout: home
 ---
 
 - [Absolute Web Path](absolute-web-path.html)
-- [ARITHABORT on connection](arithabort.html)
 - [CRC32](crc32.html)
 - [Dapper Lazy Querying](dapper-lazy-query.html)
 - [Disposable Pattern](disposable.html)
